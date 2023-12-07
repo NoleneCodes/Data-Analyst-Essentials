@@ -9,3 +9,6 @@ Showcases how I have used the Visualisation tool Power BI to highlight critical 
 
 ## Project-Relocation 
 This is a Project Management focused project for submitted and accessed for the Data Analystics and Project Managment bootcamp which received a grade of 92%.
+
+## Excel Project
+This project focused on the application of correct excel functions and formulas and using excel to accurately visualise and analyse data.
